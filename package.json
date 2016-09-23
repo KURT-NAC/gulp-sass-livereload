@@ -1,0 +1,26 @@
+{
+  "name": "gulp-sass-livereload",
+  "version": "1.0.0",
+  "description": "gulp project that includes a sass compiler and livereload dev serve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curteezie/gulp-sass-livereload.git"
+  },
+  "keywords": [
+    "gulpfile"
+  ],
+  "author": "curteezie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curteezie/gulp-sass-livereload/issues"
+  },
+  "homepage": "https://github.com/curteezie/gulp-sass-livereload#readme",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
