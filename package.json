@@ -2,7 +2,7 @@
   "name": "gulp-sass-livereload",
   "version": "1.0.0",
   "description": "gulp project that includes a sass compiler and livereload dev serve",
-  "main": "index.js",
+  "main": "scripts/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
